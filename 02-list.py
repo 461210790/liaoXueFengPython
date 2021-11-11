@@ -9,7 +9,7 @@ print(classmates[0], classmates[len(classmates)-1])
 
 # 如果要取最后一个元素，除了计算索引位置外，还可以用-1做索引，直接获取最后一个元素
 print(classmates[-1])
-
+#Creating a new branch is quick.
 # list是一个可变的有序表，所以，可以往list中追加元素到末尾
 classmates.append('Adam')
 print(classmates)
