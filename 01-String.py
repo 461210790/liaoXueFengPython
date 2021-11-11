@@ -1,11 +1,11 @@
-print('包含中文的str')
+# print('包含中文的str')
 
-print(ord('A'))
+# print(ord('A'))
 
-print(ord('中'))
+# print(ord('中'))
 
-print(chr(66))
-print(chr(21334))
+# print(chr(66))
+# print(chr(21334))
 
 
 print('\u4e2d\u6587')
